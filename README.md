@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm César López! 👋
 
-<!--
-**CesarLpzM/CesarLpzM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
 
-Here are some ideas to get you started:
+Certified Data Scientist experienced in:
+- **Process optimization and data analysis** in industrial environments.  
+- Developing **machine learning** and **deep learning** models.  
+- **Data visualization** and creating **interactive dashboards**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **My mission:** Turn data into **actionable insights** that create value across **technology, finance, and manufacturing**.
+
+---
+
+## 🚀 **Tech Stack**
+- **Languages:** Python, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Tools:** Git, GitHub, Jupyter, VS Code  
+
+---
+
+## 🌐 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlpzm)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
+
+---
