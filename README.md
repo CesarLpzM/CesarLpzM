@@ -37,9 +37,14 @@
 <h3 align="left">
   🌐 Let's connect!
 </h3>
+<ul>
+  <li><b>LinkedIn:</b> linkedin.com/in/cesarlopez-datascientist</li>
+  <li><b>Email:</b> cesar.lpzm@gmail.com</li>
+  <li><b>Cellphone:</b> (+52) 477-581-7040</li>
+</ul>
 <a href="https://www.linkedin.com/in/cesarlopez-datascientist/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:cesar.lpzm@gmail.com">
-  <img src= "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+  <img src= "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
