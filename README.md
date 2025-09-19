@@ -5,7 +5,6 @@
 <h1 align="center"> 
   Hi, I'm Cesar Lopez! 
 </h1>
-
 <hr>
 
 <h2 align="center"> 
