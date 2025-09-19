@@ -2,9 +2,10 @@
   <img src="Banner_Data_Scientist.jpg" alt="Banner" width="1000"/>
 </p>
 
-<h1 align="center"> 
+<h1 align="center" style="border-bottom: none;"> 
   Hi, I'm Cesar Lopez! 
 </h1>
+
 <hr>
 
 <h2 align="center"> 
