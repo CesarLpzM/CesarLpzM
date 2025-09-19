@@ -14,6 +14,12 @@
   About me 👨‍💻
 </h3>
 
+<ul>
+  <li>🌎 Based in Leon, Mexico</li>
+  <li>💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos</li>
+</ul>
+  
+
 🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
 
 Certified Data Scientist experienced in:
