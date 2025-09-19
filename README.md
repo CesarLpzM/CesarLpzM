@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./CesarLpzM/Banner_Data_Scientist.jpg" alt="Banner" width="1000"/>
+</p>
+
+
 # Hi, I'm César López! 👋
 
 🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
