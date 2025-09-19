@@ -13,12 +13,10 @@
 <h3 align="left">
   👨‍💻 About me
 </h3>
-<ul>
-  <li>🌎 Based in Leon, Mexico.</li>
-  <li>💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.</li>
-  <li>🎓 I am committed to continuous learning and professional growth.</li>
-  <li>🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.</li>
-</ul>
+🌎 Based in Leon, Mexico.
+💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.
+🎓 I am committed to continuous learning and professional growth.
+🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.
 
 <h3 align="left">
   🚀 Tech Stack
@@ -33,7 +31,5 @@
 <h3 align="left">
   🌐 Let's connect!
 </h3>
-<ul>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlopez-datascientist/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlopez-datascientist/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
