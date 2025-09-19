@@ -13,36 +13,27 @@
 <h3 align="left">
   👨‍💻 About me
 </h3>
-
 <ul>
   <li>🌎 Based in Leon, Mexico.</li>
   <li>💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.</li>
   <li>🎓 I am committed to continuous learning and professional growth.</li>
   <li>🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.</li>
 </ul>
-  
 
-🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
+<h3 align="left">
+  🚀 Tech Stack
+</h3>
+<ul>
+  <li><b>Programming languages:</b> Python, SQL</li>
+  <li><b>Data Science:</b> Pandas, NumPy, Scikit-learn, TensorFlow, Keras</li>
+  <li><b>Visualization:</b> Matplotlib, Seaborn, Power BI, Pi Vision</li>
+  <li><b>Tools:</b> Git, GitHub, Jupyter Notebooks, VS Code, DBeaver</li> 
+</ul>
 
-Certified Data Scientist experienced in:
-- **Process optimization and data analysis** in industrial environments.  
-- Developing **machine learning** and **deep learning** models.  
-- **Data visualization** and creating **interactive dashboards**.  
-
-💡 **My mission:** Turn data into **actionable insights** that create value across **technology, finance, and manufacturing**.
-
----
-
-## 🚀 **Tech Stack**
-- **Languages:** Python, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
-- **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Tools:** Git, GitHub, Jupyter, VS Code  
-
----
-
-## 🌐 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlpzm)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
-
----
+<h3 align="left">
+  🌐 Let's connect!
+</h3>
+<ul>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlopez-datascientist/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
+</ul>
