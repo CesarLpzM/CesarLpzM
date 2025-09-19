@@ -2,9 +2,13 @@
   <img src="Banner_Data_Scientist.jpg" alt="Banner" width="1000"/>
 </p>
 
-<h1 align="center"> Hi, I'm Cesar Lopez! </h1>
+<h1 align="center"> 
+  Hi, I'm Cesar Lopez! 
+</h1>
 
-<h2 align="center"> Welcome to my GitHub profile! I am a <b>Data Scientist</b>, and an <b>Automotive Engineer</b> passionate about driving progress through data, I enjoy turning complex information into actionable insights that fuel innovation and continuous improvement. Below, you'll find more about me, my skills, and the projects I'm working on.</h2>h1
+<h2 style="text-align: justify;"> 
+  Welcome to my GitHub profile! I am a <b>Data Scientist</b>, and an <b>Automotive Engineer</b> passionate about driving progress through data, I enjoy turning complex information into actionable insights that fuel innovation and continuous improvement. Below, you'll find more about me, my skills, and the projects I'm working on.
+</h2>
 
 🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
 
