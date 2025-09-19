@@ -2,8 +2,7 @@
   <img src="Banner_Data_Scientist.jpg" alt="Banner" width="1000"/>
 </p>
 
-
-# Hi, I'm César López! 👋
+<h1 align="center"> Hi, I'm Cesar Lopez! ![emoji animado](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🎯 **Data Scientist | 8 years in Automotive Industry | Python • SQL • ML**  
 
