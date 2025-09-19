@@ -14,15 +14,9 @@
   👨‍💻 About me
 </h3>
 <p>
-&nbsp;&nbsp;🌎 Based in Leon, Mexico.
-</p>
-<p>
-&nbsp;&nbsp;💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.
-</p>
-<p>
-&nbsp;&nbsp;🎓 I am committed to continuous learning and professional growth.
-</p>
-<p>
+&nbsp;&nbsp;🌎 Based in Leon, Mexico.<br>
+&nbsp;&nbsp;💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.<br>
+&nbsp;&nbsp;🎓 I am committed to continuous learning and professional growth.<br>
 &nbsp;&nbsp;🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.
 </p>
 
