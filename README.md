@@ -13,8 +13,10 @@
 <h3 align="left">
   👨‍💻 About me
 </h3>
+<p style="text-indent: 30px;">
+🌎 Based in Leon, Mexico.
+</p>
 <p>
-🌎 Based in Leon, Mexico.<br>
 💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.<br>
 🎓 I am committed to continuous learning and professional growth.<br>
 🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.
