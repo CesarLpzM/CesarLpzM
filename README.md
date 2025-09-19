@@ -20,6 +20,8 @@
 &nbsp;&nbsp;🌟 Passionate about data science, continuous improvement and business growth through data-driven decisions.
 </p>
 
+<hr>
+
 <h3 align="left">
   🚀 Tech Stack
 </h3>
@@ -29,6 +31,8 @@
   <li><b>Visualization:</b> Matplotlib, Seaborn, Power BI, Pi Vision</li>
   <li><b>Tools:</b> Git, GitHub, Jupyter Notebooks, VS Code, DBeaver</li> 
 </ul>
+
+<hr>
 
 <h3 align="left">
   🌐 Let's connect!
