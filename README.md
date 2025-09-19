@@ -14,7 +14,7 @@
   👨‍💻 About me
 </h3>
 <p>
-&nbsp🌎 Based in Leon, Mexico.
+&nbsp;&nbsp;🌎 Based in Leon, Mexico.
 </p>
 <p>
 💼 Currently working as <b>Industrial Engineer</b> at Michelin and as <b>Co-founder</b> in Katingos.<br>
