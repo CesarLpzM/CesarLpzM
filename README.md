@@ -6,9 +6,13 @@
   Hi, I'm Cesar Lopez! 
 </h1>
 
+<hr>
+
 <h2 align="center"> 
   Welcome to my GitHub profile! I am a Data Scientist, and an Automotive Engineer passionate about driving progress through data, I enjoy turning complex information into actionable insights that fuel innovation and continuous improvement. Below, you'll find more about me, my skills, and the projects I'm working on.
 </h2>
+
+<hr>
 
 <h3 align="left">
   👨‍💻 About me
@@ -37,5 +41,8 @@
 <h3 align="left">
   🌐 Let's connect!
 </h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlopez-datascientist/)
+<a href="https://www.linkedin.com/in/cesarlopez-datascientist/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.lpzm@gmail.com)  
